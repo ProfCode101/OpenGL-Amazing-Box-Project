@@ -78,5 +78,5 @@ python the_amaizing_box.py
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is open source and available for educational purposes. You can mail me at tasnimdrmc6461#gmail.com if you have any queries.
 
